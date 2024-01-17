@@ -25,4 +25,4 @@ Training data is prepared using a custom approach with the MNIST dataset
 - Label Generation:Corresponding labels for these combined images are generated, capturing the sequence of digits in each new image.
 - Data Augmentation:This method also acts as a form of data augmentation, increasing the variability and quantity of training data.
 - Saving Data: The combined images and their labels are saved, ready to be used for training the model.
-![image](https://github.com/Tarakzai/Multiple_digit_recognition/assets/80420558/cdf7b7e2-61d3-4106-b4e3-68000a7e07a5)
+
