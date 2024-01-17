@@ -35,7 +35,9 @@ The `DigitModel` presents a approach to digit sequence recognition. But the mode
 # Train Images 
 
 ![11983](https://github.com/Tarakzai/Multiple_digit_recognition/assets/80420558/3df9a953-cbe8-48f4-8e61-279c08cddc6f)
+
 ![11985](https://github.com/Tarakzai/Multiple_digit_recognition/assets/80420558/7f3a8f78-a99f-4990-9003-826d6b490ac5)
+
 ![11984](https://github.com/Tarakzai/Multiple_digit_recognition/assets/80420558/6b1b9416-9cd2-4cb6-a7ca-a1332ac0599c)
 
 
